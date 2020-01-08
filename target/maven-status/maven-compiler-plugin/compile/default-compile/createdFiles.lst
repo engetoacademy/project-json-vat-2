@@ -1,0 +1,8 @@
+org/author/json/JsonOperations.class
+org/author/json/objects/Root.class
+org/author/json/objects/Rates.class
+org/author/json/objects/InRates.class
+org/author/json/App.class
+org/author/json/objects/Periods.class
+org/author/json/MapOperations$1.class
+org/author/json/MapOperations.class
